@@ -2,9 +2,9 @@
 
 Submitted by: **Huy Nguyen**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **40** hours spent in total
+Time spent: **30** hours spent in total
 
 ## Required Features
 
