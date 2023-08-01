@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='https://www.loom.com/share/d109a7ae4d89472d9734ec9350edd3d1?sid=ae9146d7-4b7b-455d-a702-e52abb9c5fd8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with loom
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
